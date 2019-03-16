@@ -1,0 +1,20 @@
+{
+  "name": "twitbot",
+  "version": "1.0.0",
+  "description": "bot for my personal twitters",
+  "main": "twitbot.js",
+  "scripts": {
+    "start" : "node twitbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "akward",
+    "shortbread",
+    "projects"
+  ],
+  "author": "Daniel Brackett",
+  "license": "MIT",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
