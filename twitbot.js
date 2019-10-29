@@ -6,7 +6,7 @@ var config = require('./roquette.js');
 var T = new Twit(config);
 
 //
-//  search twitter for all tweets containing the word 'banana' since July 11, 2011
+//  search twitter for the last 2 tweets containing the word 'rainbow'.
 //
 var params = {
   q: 'rainbow',
